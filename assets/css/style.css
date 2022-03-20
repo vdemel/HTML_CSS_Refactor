@@ -76,61 +76,44 @@ p {
     display: inline-block;
     margin-left: 20px;
     }
-    .search-engine-optimization {
-        margin-bottom: 20px;
-        padding: 50px;
-        height: 300px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        background-color: #0072bb;
-        color: #ffffff;
-    }
-    
-    .online-reputation-management {
-        margin-bottom: 20px;
-        padding: 50px;
-        height: 300px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        background-color: #0072bb;
-        color: #ffffff;
-    }
-    
-    .social-media-marketing {
-        margin-bottom: 20px;
-        padding: 50px;
-        height: 300px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        background-color: #0072bb;
-        color: #ffffff;
-    }
-    
-    .search-engine-optimization img {
-        max-height: 200px;
-    }
-    
-    .online-reputation-management img {
-        max-height: 200px;
-    }
-    
-    .social-media-marketing img {
-        max-height: 200px;
-    }
-    
-    .search-engine-optimization h2 {
-        margin-bottom: 20px;
-        font-size: 36px;
-    }
-    
-    .online-reputation-management h2 {
-        margin-bottom: 20px;
-        font-size: 36px;
-    }
-    
-    .social-media-marketing h2 {
-        margin-bottom: 20px;
-        font-size: 36px;
-    }
 
-/* apply styles to benefits */
+.search-engine-optimization {
+        margin-bottom: 20px;
+        padding: 50px;
+        height: 300px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: #0072bb;
+        color: #ffffff;
+    }
+    
+.online-reputation-management {
+        margin-bottom: 20px;
+        padding: 50px;
+        height: 300px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: #0072bb;
+        color: #ffffff;
+    }
+    
+.social-media-marketing {
+        margin-bottom: 20px;
+        padding: 50px;
+        height: 300px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: #0072bb;
+        color: #ffffff;
+    } 
+ 
+.content img {
+        max-height: 200px;
+    }
+           
+.content h2 {
+        margin-bottom: 20px;
+        font-size: 36px;
+    }
+    
+    /* apply styles to benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -139,7 +122,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #0072bb;
     margin-bottom: 32 px;
     color: #ffffff;
 }
@@ -151,8 +134,9 @@ p {
 
 .benefits img {
     display: block;
-    margin: 10px auto;
+    margin: 32px auto;
     max-width: 150px;
+    margin-bottom: 32 px;
 }
 
 /* apply styles to footer */
