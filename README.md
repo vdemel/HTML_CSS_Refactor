@@ -4,8 +4,7 @@ The existing code for this webpage has been refactored to include more descripti
 
 #Screenshot:
 
-![screencapture-file-C-Users-vicki-projects-HTML-CSS-Refactor-index-html-2022-03-25-10_24_33](https://user-images.githubusercontent.com/100536682/160152189-b3d492a4-87dc-4e9a-ac6d-bd57e300efb1.png)
-
+![screencapture-vdemel-github-io-HTML-CSS-Refactor-2022-03-26-16_06_41](https://user-images.githubusercontent.com/100536682/160257184-202fbc06-b99c-4d25-9410-eb642199bb4e.png)
 
 #Link to Deployed Application:
 
